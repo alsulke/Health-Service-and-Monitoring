@@ -1,0 +1,83 @@
+Name:aniket
+Age:23
+symptoms:cough weakness vomitting
+Disease Prescribed:Influenza
+Name:aniket
+Age:23
+symptoms:vomitting headache weakness cough
+Disease Prescribed:Influenza
+
+Name:Rohit
+Age:21
+symptoms:vomitting belly pain watery stool headache fever
+Disease Prescribed:Food Poisoning
+
+Name:Rohit
+Age:5
+symptoms:vomitting belly pain watery stool headache fever
+Disease Prescribed:Food Poisoning
+
+Name:Rohan
+Age:18
+symptoms:shortness of breath cough fever
+Disease Prescribed:Influenza
+
+Name:rushabh
+Age:21
+symptoms:shortness of breath cough fever
+Disease Prescribed:Influenza
+
+Name:Manoj
+Age:21
+symptoms:shortness of breath cough fever
+Disease Prescribed:Influenza
+
+Name:kajal
+Age:17
+symptoms:shortness of breath cough fever
+Disease Prescribed:Influenza
+
+Name:Adarsh
+Age:20
+symptoms:cough fever weakness headache
+Name:Adarsh
+Age:20
+symptoms:cough fever weakness headache
+Name:Adarsh
+Age:20
+symptoms:cough fever weakness headache
+Name:Adarsh
+Age:20
+symptoms:cough fever weakness headache
+Disease Prescribed:Food Poisoning
+
+Name:Rohan
+Age:20
+symptoms:cough fever weakness headache
+Disease Prescribed:Food Poisoning
+
+Name:Akshay
+Age:19
+symptoms:cough fever weakness headache
+Disease Prescribed:Food Poisoning
+
+Name:karan
+Age:28
+symptoms:fever cough weakness headache
+Disease Prescribed:Food Poisoning
+
+Name:gaurav
+Age:19
+symptoms:watery stool vomitting belly pain fever
+Disease Prescribed:Food Poisoning
+
+Name:aniket
+Age:23
+symptoms:weakness fever weakness headache
+Disease Prescribed:Food Poisoning
+
+Name:akash
+Age:20
+symptoms:fever headache 
+Disease Prescribed:Food Poisoning
+
